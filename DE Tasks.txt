@@ -1,0 +1,25 @@
+Cleaning Tasks:
+DONE 0. Impute manually the 2 missing values of birth dates of individuals
+DONE 1. Get Age when you acquired the prize.
+	a. Parse Birth date
+	b. drop month, day
+	c. diff between prize year and birth year
+
+2. One hot encoding for category
+3. Binarizing gender column, and laureate type column (0/1)
+
+
+Preprocessing Taks:
+1. Get most frequent words from motivation
+2. Countries Dominance 
+	a. Plot country vs field (histogram count)
+	b. For each country: 
+		plot prizes count in capital city vs prizes count in all other cities
+
+3. Plot organization counts vs individual counts
+4. Plot male counts vs female counts
+5. Get The first woman to win the Nobel Prize
+6. Age differences between prize categories:
+	Plot category vs average age in the cateogry.
+7. get oldest and youngest winners.
+
