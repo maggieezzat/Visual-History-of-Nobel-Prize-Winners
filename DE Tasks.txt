@@ -10,7 +10,7 @@ DONE 3. Binarizing gender column, and laureate type column (0/1)
 
 
 Preprocessing Taks:
-1. Get most frequent words from motivation
+Done 1. Get most frequent words from motivation
 2. Countries Dominance 
 	a. Plot country vs field (histogram count)
 	b. For each country: 
