@@ -5,8 +5,8 @@ DONE 1. Get Age when you acquired the prize.
 	b. drop month, day
 	c. diff between prize year and birth year
 
-2. One hot encoding for category
-3. Binarizing gender column, and laureate type column (0/1)
+DONE 2. One hot encoding for category
+DONE 3. Binarizing gender column, and laureate type column (0/1)
 
 
 Preprocessing Taks:
