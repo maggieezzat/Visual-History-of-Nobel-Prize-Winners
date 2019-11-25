@@ -11,16 +11,21 @@ DONE 4. Parse the prize share column into numeric
 DONE 5. drop death date, death city, death country, category, and birth date columns
 DONE 6. Save the cleaned data into a file
 
-Preprocessing Taks:
-Done 1. Get most frequent words from motivation
-****2. For each country: plot prizes count in capital city vs prizes count in all other cities
-DONE 3. Age differences between prize categories: Plot category vs average age in the cateogry.
+Visualization Taks:
+Done 1. Get most frequent words from motivation.
+DONE 2. Age differences between prize categories: Plot category vs average age in the cateogry.
+DONE 3. Get The first woman to win the Nobel Prize
+DONE 4. Get oldest and youngest winners and their ages.
 
-4. Plot organization counts vs individual counts
-5. Plot male counts vs female counts
-6. Get The first woman to win the Nobel Prize
-7. get oldest and youngest winners.
-8. Display counts of non-shared prizes vs. shared /2 vs. shared /3 vs. shared /4
-9. Plot counts of prizes over fields
-10. Plot number of "individuals" belonging to organization vs. number of individuals not belonging to organization
-11. Plot country vs field (histogram count)
+****5. For each country: plot prizes count in capital city vs prizes count in all other cities.
+
+6. BISHOY - Plot counts of organization winners vs count of individual winners.
+7. BISHOY - Plot counts of males winners vs. counts of females winners.
+
+8. KHAYAT - Plot counts of "individual" winners belonging to organization vs. counts of "individual" winners not belonging to organization.
+9. KHAYAT - Plot counts of prizes awarded per field.
+
+10. MARIAM - Plot counts of non-shared prizes vs. counts of shared /2 vs. shared /3 vs. shared /4 
+11. MARIAM - Plot counts of prizes per country.
+
+12. PETER - For each field: Plot counts of prizes per country. (A Histogram for each field i.e. 6 histograms)
