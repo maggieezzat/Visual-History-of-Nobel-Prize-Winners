@@ -16,6 +16,7 @@ Specifically, we try to answer the following questions:
 The dataset we use can be found on kaggle: https://www.kaggle.com/nobelfoundation/nobel-laureates
 
 **Original Dataset:**
-`Data - Nobel Prize Laureates.csv`
-**Clened Dataset:**
+`Data - Nobel Prize Laureates.csv`      
+
+**Cleaned Dataset:**
 `nobel_data_cleaned.csv`
