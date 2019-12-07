@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## A Visual History of Nobel Prize Winners
 
-You can use the [editor on GitHub](https://github.com/maggieezzat/Visual-History-of-Nobel-Prize-Winners/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. In this project, we aim at exploring patterns and trends in over 100 years worth of Nobel Prize winners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Specifically, we try to answer the following questions:
 
-### Markdown
+1. Who gets the Nobel Prize?
+2. What is the gender of a typical Nobel Prize winner?
+3. Dominant country in each field?
+4. USA dominance, visualized
+5. The first woman to win the Nobel Prize
+6. Organizations vs. Individuals
+7. Oldest and youngest winners
+8. Age differences between prize categories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The dataset we use can be found on kaggle: https://www.kaggle.com/nobelfoundation/nobel-laureates
 
-```markdown
-Syntax highlighted code block
+**Original Dataset:**
+`Data - Nobel Prize Laureates.csv`      
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maggieezzat/Visual-History-of-Nobel-Prize-Winners/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Cleaned Dataset:**
+`nobel_data_cleaned.csv`
